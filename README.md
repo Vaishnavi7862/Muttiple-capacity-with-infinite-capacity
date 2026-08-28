@@ -48,11 +48,9 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 
-## Output :
-<img width="1042" height="328" alt="Screenshot 2026-08-24 215926" src="https://github.com/user-attachments/assets/c76c14c4-bd3b-462b-9fd7-ff83b6b41ed5" />
 
 ```
-#output:
+## output:
 <img width="1042" height="328" alt="Screenshot 2026-08-24 215926" src="https://github.com/user-attachments/assets/3c114d6e-3c23-4d19-b294-6ecd97bba860" />
-#Result:
+## Result:
 Thus, the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
